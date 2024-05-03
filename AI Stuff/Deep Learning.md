@@ -16,3 +16,5 @@ Each pixel on a board is assigned a weight ranging from -1 to 1, then
 Then using Sigmoid formula, you recalculate the weights
 **Bias for inactivity:** On top of that, you add a number on top of the total weights called. This means, that the recognition only activates meaningfully when weighted sum > Bias
 
+## Chapter 2: Gradient Descent: How neural networks learn
+
